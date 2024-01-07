@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CCD5DF&height=300&section=header" />
 
-### Hi 👋
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=zieunn)](https://solved.ac/zieunn)
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzieunn&count_bg=%23A8C7EE&title_bg=%23A6A6A8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 
 <!--
