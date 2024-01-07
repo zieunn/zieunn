@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=CCD5DF&height=300&section=header" />
-
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=CCD5DF)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=zieunn)](https://solved.ac/zieunn)
